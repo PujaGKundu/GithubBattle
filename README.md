@@ -13,3 +13,4 @@ Another app that we will be building is Github Battle the will accept two github
 ## Deployment
 
 ### Live URL
+https://pujak-github-battle-app.netlify.app/
